@@ -1,0 +1,6 @@
+{
+  "name": "NMIMS FoodHub",
+  "description": "Real-time menu and canteen availability checker for NMIMS Hyderabad Campus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
